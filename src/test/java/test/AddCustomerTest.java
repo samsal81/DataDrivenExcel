@@ -57,7 +57,7 @@ public class AddCustomerTest {
 		addCustomer.verifyEnteredNameAndDelete();
 		
 		
-		//BrowserFactory.tearDown();
+		BrowserFactory.tearDown();
 		
 	}
 
